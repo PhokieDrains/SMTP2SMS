@@ -2,17 +2,15 @@
 
 ## SCREENSHOTS
 
-### Screenshot 1
-![photo_2024-12-20_16-30-04](https://github.com/user-attachments/assets/3a4d6ef6-eee5-4671-a8d5-7653457e43f0)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-### Screenshot 2
-![photo_2024-12-20_16-30-04 (2)](https://github.com/user-attachments/assets/c93d053a-b4fa-4c3b-92dd-5c098535dc99)
+  <img src="https://github.com/user-attachments/assets/3a4d6ef6-eee5-4671-a8d5-7653457e43f0" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c93d053a-b4fa-4c3b-92dd-5c098535dc99" width="45%" />
+  
+  <img src="https://github.com/user-attachments/assets/50824ddd-6122-4693-a68b-7ae89842ef3c" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a535b8e7-1a7a-4483-962d-450006798ff7" width="45%" />
 
-### Screenshot 3
-![photo_2024-12-20_16-30-04 (3)](https://github.com/user-attachments/assets/50824ddd-6122-4693-a68b-7ae89842ef3c)
-
-### Screenshot 4
-![photo_2024-12-20_16-30-04 (4)](https://github.com/user-attachments/assets/a535b8e7-1a7a-4483-962d-450006798ff7)
+</div>
 
 ---
 
@@ -48,7 +46,7 @@
 
 Contact the creator for purchasing information:
 
-- **Telegram**: [@ph0k1e](https://t.me/ph0k1e)
+- **Telegram**: [@ph0k1e](https://t.me/+W81MvqjBrzNjYzE0)
 - **Tox ID**: `0DA71EB8D9F4810218457B1C14EE9E213AB54F9BD7381BC656BAFB6F2A1386192A6610A520B3`
 
 ---
