@@ -46,7 +46,8 @@
 
 Contact the creator for purchasing information:
 
-- **Telegram**: [@ph0k1e](https://t.me/+W81MvqjBrzNjYzE0)
+- **Telegram Contact**: [@ph0k1e](https://t.me/+W81MvqjBrzNjYzE0)
+- **Telegram Channel**: [SPOOFIE Channel](https://t.me/+W81MvqjBrzNjYzE0)
 - **Tox ID**: `0DA71EB8D9F4810218457B1C14EE9E213AB54F9BD7381BC656BAFB6F2A1386192A6610A520B3`
 
 ---
